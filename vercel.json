@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://acme-salary-backend-e3r9.onrender.com/api/:path*"
+    }
+  ]
+}
