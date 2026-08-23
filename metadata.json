@@ -1,0 +1,6 @@
+{
+  "name": "ACME Global Salary & Compensation Management",
+  "description": "Enterprise-grade salary management, pay band analytics, departmental cost intelligence, anomaly detection, and compensation scenario planning for 10,000 global employees across 12 countries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
